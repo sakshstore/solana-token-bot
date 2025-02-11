@@ -1,0 +1,7 @@
+{
+    "name": "USDX",
+    "symbol": "USDX",
+    "description": "A sample Solana token",
+    "image": "https://example.com/logo.png",
+    "attributes": []
+}
